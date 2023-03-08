@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **mdshahzaib36@gmail.com**
 
+- 👀 I’m interested in Coding and Learning
+
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
