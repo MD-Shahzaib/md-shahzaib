@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mdshahzaib36@gmail.com**
 
-- 👀 I’m interested in Coding and Learning
+- 👀 I’m interested in Coding and Never stop learning, because life never stop teaching
 
 - ⚡ Fun fact **I think I am funny**
 
