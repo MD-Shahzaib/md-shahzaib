@@ -4,17 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-shahzaib&label=Profile%20views&color=0e75b6&style=flat" alt="md-shahzaib" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular/TypeScript/Nextjs**
 
 - 👨‍💻 All of my projects are available at [https://md-shahzaib.netlify.app/](https://md-shahzaib.netlify.app/)
 
-- 💬 Ask me about **React, React Native, JavaScript, MongoDB, NodeJS, ExpressJS, Firebase, MERN**
+- 💬 Ask me about **MongoDB, ExpressJS, React, NodeJS, React-Native, JavaScript, Firebase**
 
 - 📫 How to reach me **mdshahzaib36@gmail.com**
 
 - 👀 I’m interested in Coding and Never stop learning, because life never stop teaching
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
