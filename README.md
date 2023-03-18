@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **mdshahzaib36@gmail.com**
 
-- 🌱 I’m currently learning **Angular/TypeScript/Nextjs/Docker/PWA**
+- 🌱 I’m currently learning **TypeScript/Nextjs/Docker/PWA**
 
 - 👨‍💻 All of my projects are available at [https://md-shahzaib.netlify.app/](https://md-shahzaib.netlify.app/)
 
