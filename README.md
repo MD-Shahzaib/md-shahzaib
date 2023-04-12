@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-shahzaib&label=Profile%20views&color=0e75b6&style=flat" alt="md-shahzaib" /> </p>
 
-- 📫 How to reach me **mdshahzaib36@gmail.com**
+- I’m currently learning **TypeScript/Nextjs/Docker/PWA**
 
-- 🌱 I’m currently learning **TypeScript/Nextjs/Docker/PWA**
+- 💻 All of my projects are available at [https://md-shahzaib.netlify.app/](https://md-shahzaib.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://md-shahzaib.netlify.app/](https://md-shahzaib.netlify.app/)
+- Ask me about **MongoDB, ExpressJS, React, NodeJS, React-Native, JavaScript, Firebase**
 
-- 💬 Ask me about **MongoDB, ExpressJS, React, NodeJS, React-Native, JavaScript, Firebase**
+- How to reach me **mdshahzaib36@gmail.com**
 
-- 👀 I’m interested in Coding and Never stop learning, because life never stop teaching
+- I’m interested in Coding and Never stop learning, because life never stop teaching
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
