@@ -6,7 +6,7 @@
 
 - I’m currently learning **TypeScript/Nextjs/Angular**
 
-- 💻 All of my projects are available at [https://md-shahzaib.netlify.app/](https://md-shahzaib.netlify.app/)
+- All of my projects 💻 are available at [https://md-shahzaib.netlify.app/](https://md-shahzaib.netlify.app/)
 
 - Ask me about **MongoDB, ExpressJS, React, NodeJS, React-Native, JavaScript, Firebase**
 
