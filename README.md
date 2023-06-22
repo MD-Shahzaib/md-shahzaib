@@ -1,6 +1,6 @@
 ![logo](https://github.com/MD-Shahzaib/md-shahzaib/blob/main/bg1.jfif)
 <h1 align="center">Hi 👋, I'm Muhammad Shahzaib</h1>
-<h3 align="center">A Passionate MERN Stack Developer From Pakistan</h3>
+<h3 align="center">A Passionate MERN Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-shahzaib&label=Profile%20views&color=0e75b6&style=flat" alt="md-shahzaib" /> </p>
 
