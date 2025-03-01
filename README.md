@@ -1,10 +1,10 @@
 ![logo](https://github.com/MD-Shahzaib/md-shahzaib/blob/main/bg1.jfif)
 <h1 align="center">Hi 👋, I'm Muhammad Shahzaib</h1>
-<h3 align="center">A Passionate MERN Stack Developer</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-shahzaib&label=Profile%20views&color=0e75b6&style=flat" alt="md-shahzaib" /> </p>
 
-- I’m currently learning ** TypeScript Nestjs and Nextjs **
+- I’m currently learning **Artificial Intelligence (AI)** and **Machine Learning (ML)**, along with **DevOps** practices, to enhance my expertise in **automation, model deployment, and scalable infrastructure**.
 
 - All of my projects 💻 are available at [https://md-shahzaib-portfolio.vercel.app](https://md-shahzaib-portfolio.vercel.app)
 
